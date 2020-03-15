@@ -1,3 +1,5 @@
+# I based this file on https://adafruit-io-python-client.readthedocs.io/en/latest/data.html#publishing-and-subscribing
+
 # Example of using the MQTT client class to subscribe to a feed and print out
 # any changes made to the feed.  Edit the variables below to configure the key,
 # username, and feed to subscribe to for changes.
