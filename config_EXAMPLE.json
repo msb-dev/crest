@@ -1,0 +1,10 @@
+// Make a copy of this file with the filename 'config.json' and fill in the fields below.
+// It is important not to commit config.json
+// to your git repository, in case you push it to other computers or onto the internet by mistake!
+// config.json is listed in the .gitignore file, which should enforce this.
+// Remove all of these commented lines in the config.json file.
+{
+    "adafruitKey": "Replace with your AIO Key, which you can get from Adafruit's website using the 'AIO Key' link",
+    "adafruitUserName": "replace with the user name you picked when you signed up to Adafruit",
+    "adafruitFeedID": "replace with the name of the feed you created under your Adafruit account"
+}
